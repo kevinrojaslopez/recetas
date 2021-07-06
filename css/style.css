@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cont {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#t1 {
+    background-color: #EEF09C;
+    padding: 10px;
+    float: left;
+}
+#t1 p img {
+    float: left;
+    padding-right: 20px;
+}
+
+#t2 {
+    background-color: rgba(151,239,109,1);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    background-color: rgba(220,245,106,1);
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+#t4 {
+    background-color: rgba(111,225,114,1);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: rgba(242,249,131,1);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* [disabled]padding-top: 10px; */
+    /* [disabled]padding-right: 10px; */
+    /* [disabled]padding-bottom: 10px; */
+    /* [disabled]padding-left: 10px; */
+    float: right;
+}
+em strong img {
+    padding-left: 10px;
+    float: right;
+}
+#t4 h3 img {
+    float: left;
+    padding-right: 10px;
+}
+#t5 h3 img {
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#menu {
+    background-color: rgba(184,201,235,1);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#menu {
+    background-color: rgba(189,176,232,1);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#menu {
+    background-color: rgba(200,244,238,1);
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#content {
+    background-color: rgba(189,212,236,1);
+    margin: 10px;
+    padding: 10px;
+}
